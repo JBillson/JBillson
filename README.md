@@ -7,5 +7,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JBillson&hide=hlsl,shaderlab,mask,glsl&langs_count=4&layout=compact&theme=radical)
 
 - 💻 Current project: [Eden Snacker](https://www.madebyeden.com/) 🔥🔥 
-- 📫 How to reach me: justinbillson@gmail.com
+- 📫 How to reach me: justinbillson+github@gmail.com
 - ⚡ My passions: all things SCIENCE and SPACE 🔭 
