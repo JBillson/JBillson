@@ -6,7 +6,6 @@
 ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JBillson&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide_title=true&layout=compact&hide=prs) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JBillson&hide=hlsl,shaderlab,mask,glsl&langs_count=4&layout=compact&theme=radical)
 
-- 💻 Current project: [Eden Snacker](https://www.madebyeden.com/) 🔥🔥
 - 🏫 Currently learning: **GoLang** 
 - 📫 How to reach me: **justinbillson+github@gmail.com**
 - ⚡ My passions: all things **SCIENCE** and **SPACE** 🔭 
