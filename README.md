@@ -9,7 +9,7 @@
 > 💡 **Passionate about writing clean, maintainable & scalable code**  
 > 🔗 **Experienced in API development & system integrations**  
 > 🛠️ **Skilled in .NET Core, EF Core, Redis, and Kubernetes**  
-> 📈 **Always learning & improving in Agile environments**  
+> 📈 **Always improving & learning**  
 > ✉️ **justinbillson+github@gmail.com**  
 
 ---
@@ -77,7 +77,7 @@
     <a href="https://redis.io/" target="_blank" title="Redis">
         <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="40" height="40"/>
     </a>
-    <a href="https://www.elastic.co/elasticsearch" target="_blank" title="Elastic Search">
+    <a href="https://www.elastic.co/elasticsearch" target="_blank" title="Elasticsearch">
         <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elasticsearch" width="40" height="40"/>
     </a>
 </p>
